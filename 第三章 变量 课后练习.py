@@ -111,3 +111,5 @@ for e in range(0,len(list)):
 del list[1]#del 因从后往前删，不然就会报错
 del list[0]
 print(list)
+
+# 3-10 略
